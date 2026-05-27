@@ -1,36 +1,52 @@
-## Hello World 👋
-
-<br />
-
-Hi, I'm [Phan Quyet Thang], a passionate self-taught full-stack web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happen through open-source.
-
-<br />
+## Hello World, I'm Thắng 👋
 
 <p align="left">
-   <img src="https://komarev.com/ghpvc/?username=QuyetThangDev" alt="QuyetThangDev"/>
-   <a href="https://github.com/QuyetThangDev"><img src="https://img.shields.io/badge/Github--_.svg?style=social&logo=github" alt="Github"></a>
+  <a href="https://github.com/QuyetThangDev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
+  <img src="https://komarev.com/ghpvc/?username=QuyetThangDev&color=94a3b8&style=flat-square" alt="Profile Views"/>
 </p>
 
-**Languages and tools:**  
-<div align="center">
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-</div>
+I am a passionate **Full-Stack & Mobile Application Developer**. I love turning complex problems into elegant, high-performance interfaces. For me, engineering isn't just about making things work—it's about crafting fluid user experiences, solid architecture, and maintaining clean, scalable code.
+
+Beyond my daily dev work, I'm an open-source enthusiast. I owe a lot to the tech community, and I'm always looking for ways to collaborate, share knowledge, and give back.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Frontend & Mobile**
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+**Backend & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+---
+
+### 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=QuyetThangDev&show_icons=true&theme=visual_studio_code&hide_border=true&include_all_commits=true" alt="Thang's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=QuyetThangDev&layout=compact&theme=visual_studio_code&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 <br />
 
-### 📈 My GitHub Stats
-
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuyetThangDev&&show_icons=true&title_color=333&icon_color=bb2acf&text_color=444" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=QuyetThangDev&&show_icons=true&layout=compact&title_color=333&icon_color=bb2acf&text_color=444" height="200">
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=QuyetThangDev&theme=visual_studio_code&hide_border=true" alt="GitHub Streak" width="97%" />
+</p>
 
 <br />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuyetThangDev&theme=visual_studio_code&hide_border=true" alt="GitHub Streak" width="97%" />
+</p>
