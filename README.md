@@ -1,6 +1,7 @@
 ## Hello World, I'm Thắng 👋
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/phanquyetthang/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/QuyetThangDev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
   <img src="https://komarev.com/ghpvc/?username=QuyetThangDev&color=94a3b8&style=flat-square" alt="Profile Views"/>
 </p>
@@ -32,6 +33,14 @@ Beyond my daily dev work, I'm an open-source enthusiast. I owe a lot to the tech
 
 ---
 
+### 🎓 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" />
+</p>
+
+---
+
 ### 📈 GitHub Statistics
 
 <p align="center">
@@ -43,10 +52,4 @@ Beyond my daily dev work, I'm an open-source enthusiast. I owe a lot to the tech
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=QuyetThangDev&theme=visual_studio_code&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuyetThangDev&theme=visual_studio_code&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
